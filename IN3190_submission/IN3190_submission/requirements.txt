@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+h5py
+scipy
+cartopy
+geopy
+obspy
+python-dateutil
